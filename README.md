@@ -1,2 +1,2 @@
 # picoCTF-solution-finds
-Solutions I found to all categories of PicoCTF
+Write ups to solutions of PicoCTF questions
